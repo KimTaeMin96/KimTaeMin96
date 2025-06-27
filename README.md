@@ -9,3 +9,8 @@
 - 텔레그램 그룹 접속 주소: https://t.me/TotalTriningCenter
 - 카카오톡 1:1 문의 접속 주소: https://open.kakao.com/o/s9E5y3Dh
 - 오프라인 센터: 전남 장흥 (예정)
+
+## SNS
+- 쓰레드: https://www.threads.com/@99.06.06.kimtaemin
+- 텔레그램: https://t.me/TotalTriningCenter
+- 카카오톡: https://open.kakao.com/o/s9E5y3Dh
