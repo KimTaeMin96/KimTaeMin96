@@ -14,6 +14,13 @@
 - 카카오톡 1:1 문의 접속 주소: https://open.kakao.com/o/s9E5y3Dh
 - 오프라인 센터: 전남 장흥 (예정)
 
+### 사명 선언
+```
+변화를 위한 구조는 ‘의지’로 만드는 게 아니라,
+삶을 갈아넣는 ‘루틴’에서 시작된다.
+그게 지금 내가 하고 있는 일이다.
+```
+
 ## SNS
 - 쓰레드: https://www.threads.com/@99.06.06.kimtaemin
 - 텔레그램: https://t.me/TotalTriningCenter
