@@ -7,7 +7,9 @@
 ## 직장 (재직중)
 - 씨매니아 (2020년 2월 5일 ~ )
 
-## 개인 사업 - 종합 훈련 센터 (Total Training Center, 8월 27일 공식 오픈)
+## 사이드 프로젝트
+- 명칭: 종합 훈련 센터 (Total Training Center)
+- 공식 오픈일: 25년 8월 27일
 - 공식 주소: https://total.training-center.org (운영중)
 - 오프라인 센터: 전남 장흥 (예정)
 
