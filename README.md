@@ -10,7 +10,7 @@
 ## 사이드 프로젝트
 - 명칭: 종합 훈련 센터 (Total Training Center)
 - 공식 오픈일: 25년 8월 27일
-- 공식 주소: https://total.training-center.org (운영중)
+- 공식 주소: https://total.training-center.org (25년 9월 부터 내리고 휴식중, 26년 7월 7일 다시 시작할 예정, 휴식중(오픈 준비중))
 - 오프라인 센터: 전남 장흥 (예정)
 - 참고: 사업화 예정
 
