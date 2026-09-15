@@ -11,6 +11,7 @@
 - 명칭: 종합 훈련 센터 (Total Training Center)
 - 공식 오픈일: 25년 8월 27일
 - 2차 공식 오픈일 26년 7월 7일
+- 공식 홈페이지 주소: https://training-center.org
 - 공식 플랫폼 주소: https://total.training-center.org
 - 오프라인 센터: 전남 장흥 (예정)
 - 참고: 사업화 예정
